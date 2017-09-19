@@ -1,0 +1,161 @@
+[
+    {
+        "categorie": "Acetaminofem", 
+        "values": [
+            {
+                "value": 641, 
+                "rate": "Glaxosmithkline"
+            }, 
+            {
+                "value": 500, 
+                "rate": "DenkPharma"
+            }, 
+            {
+                "value": 426, 
+                "rate": "Procaps"
+            }, 
+            {
+                "value": 405, 
+                "rate": "Biochem"
+            }, 
+            {
+                "value": 388, 
+                "rate": "Tecnoquimicas"
+            }, 
+            {
+                "value": 0, 
+                "rate": "Pfizer"
+            }, 
+            {
+                "value": 0, 
+                "rate": "Bayer"
+            }
+
+        ]
+    }, 
+    {
+        "categorie": "Liberal Profession", 
+        "values": [
+            {
+                "value": 500, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 650, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 200, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 180, 
+                "rate": "Very much"
+            }, 
+            {
+                "value": 600, 
+                "rate": "Tremendously"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Salaried Staff", 
+        "values": [
+            {
+                "value": 3, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 22, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 6, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 15, 
+                "rate": "Very much"
+            }, 
+            {
+                "value": 3, 
+                "rate": "Tremendously"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Employee", 
+        "values": [
+            {
+                "value": 12, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 7, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 18, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 13, 
+                "rate": "Very much"
+            }, 
+            {
+                "value": 6, 
+                "rate": "Tremendously"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Craftsman", 
+        "values": [
+            {
+                "value": 6, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 15, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 9, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 12, 
+                "rate": "Very much"
+            }, 
+            {
+                "value": 3, 
+                "rate": "Tremendously"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Inactive", 
+        "values": [
+            {
+                "value": 6, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 6, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 6, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 2, 
+                "rate": "Very much"
+            }, 
+            {
+                "value": 3, 
+                "rate": "Tremendously"
+            }
+        ]
+    }
+]
