@@ -1,6 +1,6 @@
-var margin = {top: 20, right: 20, bottom: 30, left: 150},
-    width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+var margin = {top: 20, right: 20, bottom: 30, left: 35},
+    width = 700 - margin.left - margin.right,
+    height = 400 - margin.top - margin.bottom;
 
 var x0 = d3.scale.ordinal()
     .rangeRoundBands([0, width], .1);
@@ -20,7 +20,7 @@ var yAxis = d3.svg.axis()
     .orient("left");
 
 var color = d3.scale.ordinal()
-    .range(["#ca0020","#f4a582","#d5d5d5","#92c5de","#0571b0"]);
+    .range(["#ca0020","#f4a582","#d5d5d5","#92c5de","#0571b0","#00e6b8","#cc99ff"]);
 
 var svg = d3.select("#st").append("svg")
     .attr("width", width + margin.left + margin.right)
