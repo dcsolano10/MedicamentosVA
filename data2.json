@@ -1,0 +1,90 @@
+[
+    {
+        "categorie": "A Alendrónico", 
+        "values": [
+            {
+                "value": 529, 
+                "rate": "Merck"
+            },
+            {
+                "value": 394, 
+                "rate": "Lafrancol"
+            }, 
+            {
+                "value": 82, 
+                "rate": "MK"
+            },  
+            {
+                "value": 0, 
+                "rate": "Pfizer"
+            }
+
+        ]
+    },
+    {
+        "categorie": "Sildenafil", 
+        "values": [
+            {
+                "value": 394, 
+                "rate": "Lafrancol"
+            }, 
+            {
+                "value": 267, 
+                "rate": "Pfizer"
+            }, 
+            {
+                "value": 0, 
+                "rate": "Merck"
+            }, 
+            {
+                "value": 16, 
+                "rate": "MK"
+            }
+
+        ]
+    },
+    {
+        "categorie": "Moxifloxacina", 
+        "values": [
+            {
+                "value": 243, 
+                "rate": "Lafrancol"
+            }, 
+            {
+                "value": 0, 
+                "rate": "Pfizer"
+            }, 
+            {
+                "value": 158, 
+                "rate": "MK"
+            }, 
+            {
+                "value": 0, 
+                "rate": "Merck"
+            }
+
+        ]
+    },
+    {
+        "categorie": "Atorvastatina", 
+        "values": [
+            {
+                "value": 102, 
+                "rate": "Lafrancol"
+            }, 
+            {
+                "value": 85, 
+                "rate": "Pfizer"
+            }, 
+            {
+                "value": 26, 
+                "rate": "MK"
+            }, 
+            {
+                "value": 0, 
+                "rate": "Merck"
+            }
+
+        ]
+    }
+]

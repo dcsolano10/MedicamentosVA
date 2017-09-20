@@ -27,7 +27,8 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#about">Laboratorios</a></li>
+        <li><a href="#med">Medicamento</a></li>
+        <li><a href="#lab">Laboratorios</a></li>
       </ul>
     </div>
   </div>
@@ -39,10 +40,10 @@
 
 
 <!-- Container (About Section) -->
-<div id="about" class="container-fluid">
+<div id="med" class="container-fluid">
   <div class="row">
     <div class="col-sm-6">
-      <h2>Precios por laboratorio</h2><br>
+      <h2>Precios por medicamento</h2><br>
       <h4>Precio por tableta de 500mg del principio activo acetaminofen de 7 fabricantes.</h4>
       <p>Se observa una diferencia de precio desde 308 del fabricante Lacico a 641 del fabricante Glaxosmithkline. Ahora, ¿Por qué se duplica el precio entre fabricantes para el mismo medicamento? Bueno, nos puede dar un indicio el nombre comercial de estos medicamentos, Glaxosmithkline produce Dolex mientras que Lacico produce Winadol. </p>
       <p>¡Todo indica que pagamos más por un Dolex!</p>
@@ -52,8 +53,17 @@
     </div>
   </div>
 </div>
-<div id="about" class="container-fluid">
-
+<div id="lab" class="container-fluid bg-grey">
+  <div class="row">
+    <div class="col-sm-6">
+      <div id="pato"></div>
+    </div>
+    <div class="col-sm-6">
+      <h2>Precios por laboratorio</h2><br>
+      <h4>Precio por tableta para 4 medicamentos de 4 fabricantes seleccionados aleatoriamente .</h4>
+      <p>Para los principios activos Ácido alendrónico, Sildenafil, Moxifloxacina y Atorvastatina vemos que el fabricante MK presenta precios significativamente menores que el resto de fabricantes. ¿Por qué el precio es menor? Si observamos los medicamentos que produce MK nos damos cuenta que son genéricos, a diferencia de Pfizer, Lafrancol y Merck.</p>
+    </div>
+  </div>
 </div>
 
 
@@ -102,7 +112,7 @@ $(document).ready(function(){
 })
 </script>
 <script src="barCAcet.js"></script>
-<script src="stacked.js"></script>
+<script src="grouped.js"></script>
 
 </body>
 </html>
