@@ -96,7 +96,17 @@ d3.json("data.json", function(error, data) {
       .attr("width", 18)
       .attr("height", 18)
       .style("fill", function(d) { return color(d); });
-
+    
+ /*Pablo Andres Boada 
+ legend.append("rect")
+     .attr("x", width - 18)
+     .attr("width", 18)
+     .attr("height", 18)
+     .style("fill", function(d) { return color(d); })
+     .on("mouseover", function(d) { d3.select("rect").style("fill", color(d));})
+     .on("mouseout", function(d) { d3.select("rect").style("fill", color(d));})
+     ;
+ */
   legend.append("text")
       .attr("x", width - 24)
       .attr("y", 9)
